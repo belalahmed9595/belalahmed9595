@@ -21,6 +21,8 @@ These are the Languages and Frameworks I know
  - [Tkinter](https://en.wikipedia.org/wiki/Tkinter)
  - [Tailwind CSS](https://tailwindcss.com/)
 
+## Code Editors, Integrated Development Environments and Tools I Use
+![](CodeEditorsIDETools.png "Code Editors, IDEs & Tools")
 
 ## How to Contact Me? 📞
 You can contact me by sending me a direct message on [Instagram](https://www.instagram.com/)
