@@ -34,7 +34,7 @@ You can contact me by sending me a direct message on [Instagram](https://www.ins
 
 Or you can also contact me by sending me an Email
 
-Email I'd - belalahmed7651@gmail.com
+Email I'd - `belalahmed7651@gmail.com`
 
 
 <!---
