@@ -2,7 +2,7 @@
 # Introduction
 Hii, This is Belal Ahmed Here!
 
-I started to code when I was 11, There I learned How to build Websites Using Pure HTML, CSS, JavaScript, Python After sometime I got into Tkinter with Python and from that, spent an entire year writing Desktop Graphical User Interface Applications wtih Tkinter.
+I started to code when I was 11, There I learned How to build Websites Using Pure HTML, CSS, JavaScript & Python. After sometime I got into Tkinter with Python and from that, spent an entire year writing Desktop Graphical User Interface Applications wtih Tkinter.
 
 I always like to learn new technologies, I am learning Android Development With Java As Of Now
 
