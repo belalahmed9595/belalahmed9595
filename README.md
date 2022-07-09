@@ -25,9 +25,16 @@ These are the Languages and Frameworks I know
 ![](CodeEditorsIDETools.png "Code Editors, IDEs & Tools")
 
 ## How to Contact Me? 📞
+![](contact.png "Languages And Frameworks")
+
 You can contact me by sending me a direct message on [Instagram](https://www.instagram.com/)
 
 [My Instagram Account](https://instagram.com/mrbelalahmed95)
+
+
+Or you can also contact me by sending me an Email
+
+Email I'd - belalahmed7651@gmail.com
 
 
 <!---
