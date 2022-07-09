@@ -1,5 +1,5 @@
 
-# Introduction
+# Introduction 🙋‍♂️👨‍💻
 Hii, This is Belal Ahmed Here!
 
 I started to code when I was 11, There I learned How to build Websites Using Pure HTML, CSS, JavaScript & Python. After sometime I got into Tkinter with Python and from that, spent an entire year writing Desktop Graphical User Interface Applications wtih Tkinter.
@@ -8,7 +8,7 @@ I always like to learn new technologies, I am learning Android Development With 
 
 
 
-## Languages & Frameworks I Know 
+## Languages & Frameworks I Know 💻☕
 These are the Languages and Frameworks I know 
     
  - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
@@ -20,7 +20,7 @@ These are the Languages and Frameworks I know
  - [Tailwind CSS](https://tailwindcss.com/)
 
 
-## How to Contact Me?
+## How to Contact Me? 📞
 You can contact me by sending me a direct message on [Instagram](https://www.instagram.com/)
 
 [My Instagram Account](https://instagram.com/mrbelalahmed95)
